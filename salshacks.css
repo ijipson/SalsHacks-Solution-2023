@@ -1,0 +1,58 @@
+
+body {background-color: rgb(156, 197, 240);
+    text-align: center;
+    
+      
+}
+
+
+h1 {color: rgb(199, 112, 199)}
+
+body, button {font-family: 'Rubik', sans-serif;}
+
+button {color: rgb(90, 97, 223)
+}
+
+button { padding : 5% 5% }
+
+button {font-size: 20px }
+
+button { border-radius: 10px }
+
+.student{
+    position: absolute;
+    top:150px;
+    left: 350px;
+    
+}
+.admin{
+    position: absolute;
+    top:150px;
+    right: 350px;
+}
+.sbutton{
+    padding:1%;
+    border-radius:5px;
+    text-align: center;
+}
+
+img { width: 20%; height: auto;
+    border-radius:21px; }
+.image1{
+    position: relative;
+    border-radius:10px; 
+    top:200;
+    left:0;
+    border:1 px;
+    padding:5%;
+    
+}
+.image2{
+    position: absolute;
+    border-radius:10px; 
+    top:250px;
+    left: 300px;
+    border:1 px;
+    padding:5%;
+    
+}
